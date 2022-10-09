@@ -1,0 +1,17 @@
+Practical no and aim
+
+Prac 3- Aim: Install Selenium and demonstrate it using a script in Java/PHP
+
+Prac4- Aim:Write and Test a program to login in a specific web page(using Junit) (TestJUnit and TestRunner)
+ 
+Prac5-Write and Test a program to update 10 students records into table into Excel File (using TestNG)
+
+Prac 6- Write and Test a program to select the number of students who have scored more than 60 in any one subject (or all subjects)
+
+Prac 7- Write and test a  program to provide total number of objects present/ available on the page.
+
+Prac 8- Write and test a  program to get total number of items in a list/combo box.
+
+Prac9-Write and Test program to count the number of check boxes on the page checked and unchecked count.
+
+Prac10- Load Testing using Jmeter. 
